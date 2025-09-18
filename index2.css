@@ -1,0 +1,21 @@
+div {
+   height: 200px;
+   width: 200px;
+   background-color: aqua;
+   display:inline-block;
+   border: 3px;
+   margin: 5px;
+   border-color: black;
+   border-style:solid;
+   text-align: center;
+}
+body{
+    background-image: url("tiger.jpg");
+    background-size: cover;
+}
+#box3{
+ background-image: url("tiger.jpg");
+ height: 200px;
+ width:200px;
+ background-size: cover;
+}

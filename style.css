@@ -1,0 +1,56 @@
+h1 {
+    text-align: center;
+    color:red;
+    text-decoration: blue wavy underline;
+}
+#heading107{
+    font-size: small;
+    text-transform: uppercase;
+}
+p {
+    text-align: center;
+    color : brown;
+   background-color: aqua;
+   height: 200px;
+   width: 200px;
+  /* border-width: 3px;
+   border-style: solid;
+   border-color: black; */
+   border : black 5px solid;
+    
+}
+
+button {
+    color:rgb(243, 9, 165);
+    background-color: cyan;
+}
+
+body{
+   background-color:#ffff00;
+    color:rgb(243, 9, 165);
+}
+
+#heading107 {
+    color: blue;
+}
+
+.myclass{
+    color: rgb(56, 42, 146);
+}
+p{
+    text-align: center;
+    font-family:fantasy;
+   /* For Spacing Use line heigh  */
+    line-height: 50px;
+}
+a {
+    text-decoration: none;
+}
+h2{
+    font-weight: lighter;
+}
+div{
+    height: 100px;
+    width: 100px;
+    background-color: aqua;
+}
